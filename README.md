@@ -5,3 +5,5 @@ install_wine
 
 sudo tar xvpf wine_ubuntu_20.10_glib_2.32.tar.xz -C /
 
+Bitcoin support donate 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
+
