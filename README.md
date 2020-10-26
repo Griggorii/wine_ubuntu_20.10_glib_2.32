@@ -1,5 +1,5 @@
 # wine_ubuntu_20.10_glib_2.32
-wine , ubuntu 20.10 , glib_2.32 , wineg++-stable , winegcc-stable , winecpp-stable , winedbg-stable
+wine , ubuntu 20.10 , glib_2.32 , wineg++-stable , winegcc-stable , winecpp-stable , winedbg-stable , wine64-tools_5.0-3
 
 install_wine
 
